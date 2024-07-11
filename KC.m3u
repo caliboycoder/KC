@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KCTV5" group-title="",KCTV5
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kctv5news-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="KMOV" group-title="",KMOV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kmovnews4stlouis-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="KSHB 41 (Kansas City MO)" group-title="",KSHB 41 (Kansas City MO)
+https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
+#EXTINF:-1 tvg-id="KMBC Kansas City ABC" group-title="",KMBC Kansas City ABC
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
